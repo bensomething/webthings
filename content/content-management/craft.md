@@ -11,6 +11,7 @@
   - [Articles](#articles)
   - [Praises](#praises)
   - [Videos](#videos)
+  - [Podcasts](#podcasts)
   - [Dev Tools](#dev-tools)
 - [**Showcase**](#showcase)
   - [Official Case Studies](#official-case-studies)
