@@ -20,3 +20,8 @@
 - [**Shopify**](http://shopify.com) - [GitHub](https://github.com/Shopify) - `Hosted` - The ecommerce platform made for you.
 - [**Snipcart**](http://snipcart.com) - [GitHub](http://github.com/snipcart) - `Platform` - Easy, flexible e-commerce for developers.
 - [**Statamify**](http://demo.statamify.com) - [GitHub](http://github.com/tavando/Statamify) - `Plugin` - Free Shopify-like ecommerce addon for Statamic.
+
+## Documentation
+
+- [**GitBook**](http://gitbook.io) - [GitHub](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown.
+- [**MkDocs**](http://www.mkdocs.org/) - [GitHub](https://github.com/mkdocs/mkdocs/) - A static site generator geared towards building project documentation.

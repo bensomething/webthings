@@ -26,7 +26,7 @@ A collection of all things web, because my memory sucks and so does yours.
 
 ## [Development](development/README.md)
 
-- [editors](development/README.md#editors)
+- [Editors](development/README.md#editors)
 - [Version Control](development/README.md#version-control)
 - [Local Dev](development/README.md#local-dev)
 - [Build Systems](development/README.md#build-systems)

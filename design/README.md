@@ -40,7 +40,7 @@
 
 ## Accessibility
 
-- [Color & Contrast Picker](http://kevingutowski.github.io/color.html)
+- [**Color & Contrast Picker**](http://kevingutowski.github.io/color.html) - Understanding why some color combos are inaccessible and how to fix them.
 
 ---
 
@@ -52,6 +52,6 @@ Data collected from the [Adele](https://adele.uxpin.com/) project by [UXPin](htt
 - [**ACL:** Starling](http://design.acl.com/page/Home) - Practical rules for their most common UX and UI patterns.
 - [**Altinn:** Altinn Designsystem](http://altinn.no/designsystem) - [GitHub](https://github.com/Altinn/DesignSystem) - The design system is based on so-called atomic design methodology.
 - [**Ant Financial:** Ant Design](https://ant.design/) - [GitHub](https://github.com/ant-design/ant-design) - A design system with values of nature and determinacy.
-
----
-
+- [**Appear Here:** Bloom](http://bloom.appearhere.co.uk/) - [GitHub](https://github.com/appearhere/bloom/) - Central repository for design patterns and guidelines.
+- [**Atlassian**](https://atlassian.design/) - [Bitbucket](https://bitbucket.org/atlassian/atlaskit) - Design, develop, and deliver.
+- [**Audi**](http://www.audi.com/ci/en/guides/user-interface/introduction.html) - [GitHub](https://github.com/audi/audi-ui) - A joint set of components, modules and animations.
