@@ -2,8 +2,6 @@
 
 ## Software
 
-
-
 - [**Atomic**](https://atomic.io/) - `Prototypes` - Advanced interactive design.
 - [**Axure RP**](https://www.axure.com/) - `Prototypes` - Powerful prototypes, without coding.
 - [**Affinity Designer**](https://affinity.serif.com/en-gb/) - `Design` - Professional graphic design software.
@@ -28,13 +26,19 @@
 
 ## UI Kits
 
-- [**Framer**](https://framer.com/getstarted/resources/) - Kickstart your next project with free UI kits.
+- [**Framer**](https://framer.com/getstarted/resources/) - `Free` - Kickstart your next project with free UI kits.
+- [**InVision: DO**](https://www.invisionapp.com/do) - `Free` - The most versatile to-do app UI kit you've ever seen.
+- [**Jan Losert**](http://janlosert.com/store/) - `Paid` `Free` - Personally crafted products.
+- [**Sketch: Elements**](https://sketchapp.com/elements) - `Free` - A free iOS UI kit, brought to you by Sketch.
+- [**UI8**](https://ui8.net/) - `Paid` `Free` - Curated design resources to energize your creative workflow.
 
 ---
 
 ## Placeholders
 
 - [**Avataaars**](https://getavataaars.com/) - `Image` - A free online avatar generator for anyone to make a personal avatar.
+- [**Placeholder**](http://placeholder.com) - `Image` - Just put your image size after the URL and you'll get a placeholder image.
+- [**Unsplash Source**](https://source.unsplash.com/) - `Image` - Simple embedding for Unsplash photos.
 
 ---
 
@@ -48,11 +52,17 @@
 
 Data collected from the [Adele](https://adele.uxpin.com/) project by [UXPin](http://uxpin.com).
 
-- [**18F:** U.S. Web Design System](https://designsystem.digital.gov/) - [GitHub](https://github.com/uswds/uswds) - A design system for building federal government websites.
-- [**ACL:** Starling](http://design.acl.com/page/Home) - Practical rules for their most common UX and UI patterns.
-- [**Altinn:** Altinn Designsystem](http://altinn.no/designsystem) - [GitHub](https://github.com/Altinn/DesignSystem) - The design system is based on so-called atomic design methodology.
-- [**Ant Financial:** Ant Design](https://ant.design/) - [GitHub](https://github.com/ant-design/ant-design) - A design system with values of nature and determinacy.
-- [**Appear Here:** Bloom](http://bloom.appearhere.co.uk/) - [GitHub](https://github.com/appearhere/bloom/) - Central repository for design patterns and guidelines.
-- [**Atlassian:** Atlaskit](https://atlassian.design/) - [Bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2) - Design, develop, and deliver.
-- [**Audi:** Audi UI](http://www.audi.com/ci/en/guides/user-interface/introduction.html) - [GitHub](https://github.com/audi/audi-ui) - A joint set of components, modules and animations.
-- [**Auth0**](https://styleguide.auth0.com/) - [GitHub](https://github.com/auth0/styleguide) - Conjunction of design patterns, components and resources.
+- [**18F: U.S. Web Design System**](https://designsystem.digital.gov/) - [GitHub](https://github.com/uswds/uswds) - A design system for building federal government websites.
+- [**ACL: Starling**](http://design.acl.com/page/Home) - Practical rules for their most common UX and UI patterns.
+- [**Altinn: Altinn Designsystem**](http://altinn.no/designsystem) - [GitHub](https://github.com/Altinn/DesignSystem) - The design system is based on so-called atomic design methodology.
+- [**Ant Financial: Ant Design**](https://ant.design/) - [GitHub](https://github.com/ant-design/ant-design) - A design system with values of nature and determinacy.
+- [**Appear Here: Bloom**](http://bloom.appearhere.co.uk/) - [GitHub](https://github.com/appearhere/bloom/) - Central repository for design patterns and guidelines.
+- [**Atlassian: Atlaskit**](https://atlassian.design/) - [Bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2) - Design, develop, and deliver.
+- [**Audi: Audi UI**](http://www.audi.com/ci/en/guides/user-interface/introduction.html) - [GitHub](https://github.com/audi/audi-ui) - A joint set of components, modules and animations.
+- [**Auth0: Styleguide**](https://styleguide.auth0.com/) - [GitHub](https://github.com/auth0/styleguide) - Conjunction of design patterns, components and resources.
+
+---
+
+## Articles
+
+- [**Bjango Articles**](https://bjango.com/articles/) - [GitHub](https://github.com/bjango) - Incredibly in-depth articles on design from Marc Edwards.

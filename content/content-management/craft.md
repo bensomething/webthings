@@ -17,15 +17,14 @@
 - [**Craft 2 Docs**](https://docs.craftcms.com/v2) - [Craft 2 Class Reference](https://docs.craftcms.com/api/v2)
 - [**Craft Support**](https://craftcms.com/support)
 
-
 ---
 
-## Plugins
+## Featured
 
-- [**Craft 3 Plugins**](https://plugins.craftcms.com)
-- [**Submit Craft 3 Plugins**](https://id.craftcms.com)
-- [**Craft 2 Plugins**](https://craftplug.in/)
-- [**Plugin Factory**](https://pluginfactory.io/)
+> - [**nystudio107 Blog**](https://nystudio107.com/blog) - `Articles` - Chances are Andrew's written a blog post about it.
+> - [**Mijingo**](https://mijingo.com/craft) - `Videos` - Video courses and how-to articles for learning Craft.
+> - [**Craft 3 Plugins**](https://plugins.craftcms.com) - `Plugins` - The official list of all the available plugins.
+> - [**iDE Global Case Study**](https://craftcms.com/news/ide-global-case-study) - `Case Study` - Inspiring new entrepreneurs with Craft and Salesforce.
 
 ---
 
@@ -44,6 +43,15 @@
 - [**Straight Up Craft**](http://straightupcraft.com/) - Tutorials, plugin directory, event listings and more.
 - [**Twitter**](https://twitter.com/craftcms) - Follow the conversation, official community hashtag is [`#craftcms`](https://twitter.com/hashtag/craftcms).
 - [**Work With Craft**](https://www.workwithcraft.com/) - Dedicated job board aimed to connect employers with Craft professionals.
+
+---
+
+## Plugins
+
+- [**Craft 3 Plugins**](https://plugins.craftcms.com)
+- [**Submit Craft 3 Plugins**](https://id.craftcms.com)
+- [**Craft 2 Plugins**](https://craftplug.in/)
+- [**Plugin Factory**](https://pluginfactory.io/)
 
 ---
 
@@ -157,7 +165,7 @@
 - [**Craft.Podcast**](http://craftpodcast.com/) - A voice for the #CraftCMS community.
 - [**Talk­ing Craft CMS 3 RC1!**](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
 
-### Development Tools
+### Dev Tools
 
 - [**Craft CLI**](https://github.com/rsanchez/craft-cli) - `2` - Command line interface for Craft CMS 2.
 - [**Craft CMS Bootstrap**](https://github.com/timkelty/craftcms-bootstrap) - `3` - Streamline Craft CMS bootstrapping and configuration.
