@@ -5,6 +5,7 @@
 - [**Domainr**](http://domainr.com) - `Search` - Domainr helps you find the perfect name for your company or project
 - [**Hover**](http://hover.com) - `Registration` - Every great idea deserves a great domain name.
 - [**I Want My Name**](http://iwantmyname.com) - `Registration` - Easy domain search, registration and DNS management.
+- [**Namecheap**](https://www.namecheap.com) - `Registration` - Monthly coupons, competitive prices, and awesome customer support.
 
 ---
 
