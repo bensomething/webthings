@@ -15,10 +15,14 @@
 
 ## Version Control
 
-- [**Beanstalk**](https://beanstalkapp.com/) - A complete workflow to write, review and deploy code.
-- [**BitBucket**](https://bitbucket.org/) - Distributed version control that makes it easy for you to collaborate with your team.
-- [**GitHub**](https://github.com) - A development platform to host and review code, manage projects, and build software.
-- [**GitLab**](https://about.gitlab.com/) - The first single application built from the ground up for all stages of the DevOps lifecycle.
+- [**Beanstalk**](https://beanstalkapp.com/) - `Repos` - A complete workflow to write, review and deploy code.
+- [**BitBucket**](https://bitbucket.org/) - `Repos` - Distributed version control that makes it easy for you to collaborate with your team.
+- [**GitHub**](https://github.com) - `Repos` A development platform to host and review code, manage projects, and build software.
+- [**GitHub Desktop**](https://desktop.github.com/) - [GitHub](https://github.com/desktop/desktop) - `App` - Simple collaboration from your desktop.
+- [**GitKraken**](https://www.gitkraken.com/) - `App` - The legendary Git GUI client.
+- [**GitLab**](https://about.gitlab.com/) - `Repos` - Built from the ground up for all stages of the DevOps lifecycle.
+- [**Sourcetree**](https://www.sourcetreeapp.com/) - `App` - Simplicity and power in a beautiful Git GUI.
+- [**Tower**](https://www.git-tower.com/) - `App` - Version control with Git - made easy.
 
 ---
 
@@ -57,7 +61,7 @@
 - [**Can I Use**](http://caniuse.com) - `Web` - Provides browser support tables for front-end web technologies. 
 - [**CrossBrowserTesting**](http://crossbrowsertesting.com) - `Web` - Make every web experience perfect, on any browser or mobile device.
 - [**Litmus**](http://litmus.com) - `Email` - Build, edit, and instantly preview your emails across 90+ clients.
-- [**Solis**](http://solisapp.com) - `Web` - A live design output that integrates seamlessly with your favourite code editor.
+- [**Solis**](http://solisapp.com) - `Web` `App` - A live design output that integrates seamlessly with your favourite code editor.
 - [**Support Details**](http://supportdetails.net) - `Web` - Browser capability and operating system information.
 
 ---
