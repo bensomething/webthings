@@ -55,3 +55,4 @@ Data collected from the [Adele](https://adele.uxpin.com/) project by [UXPin](htt
 - [**Appear Here:** Bloom](http://bloom.appearhere.co.uk/) - [GitHub](https://github.com/appearhere/bloom/) - Central repository for design patterns and guidelines.
 - [**Atlassian:** Atlaskit](https://atlassian.design/) - [Bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2) - Design, develop, and deliver.
 - [**Audi:** Audi UI](http://www.audi.com/ci/en/guides/user-interface/introduction.html) - [GitHub](https://github.com/audi/audi-ui) - A joint set of components, modules and animations.
+- [**Auth0**](https://styleguide.auth0.com/) - [GitHub](https://github.com/auth0/styleguide) - Conjunction of design patterns, components and resources.

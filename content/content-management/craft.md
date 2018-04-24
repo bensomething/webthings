@@ -2,7 +2,8 @@
 
 ## Details
 
-- **Website** - http://craftcms.com
+- **Website** - https://craftcms.com
+- **Licence Management** - https://id.craftcms.com
 - **Language** - PHP
 - **Framework** - Yii
 - **Templating** - Twig
@@ -17,14 +18,23 @@
 
 ---
 
+## Plugins
+
+- [**Craft 3 Plugins**](https://plugins.craftcms.com)
+- [**Submit Craft 3 Plugins**](https://id.craftcms.com)
+- [**Craft 2 Plugins**](https://craftplug.in/)
+
+---
+
 ## Community
 
 - [**Craft Cookbook**](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
 - [**Craft Link List**](http://craftlinklist.com/) - Curated publication collecting interesting links.
 - [**CraftX**](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
-- [**Evanto Tuts+**](https://tutsplus.com/tutorials/search/craft+cms)
+<!-- - [**Evanto Tuts+**](https://tutsplus.com/tutorials/search/craft+cms) -->
 - [**Facebook**](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
 - [**Mijingo**](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
+- [**Professionals**](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
 - [**Slack**](https://craftcms.com/community#slack) - Nearing 6,500 users, join the Slack group dedicated to Craft CMS discussion.
 - [**StackExchange**](https://craftcms.stackexchange.com) - Q&A for administrators, end users, developers and designers.
 - [**Straight Up Craft**](http://straightupcraft.com/) - Tutorials, plugin directory, event listings and more.
