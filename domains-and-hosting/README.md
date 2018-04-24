@@ -16,7 +16,7 @@
 
 ## Hosting
 
-- [**Amazon AWS**](https://aws.amazon.com/websites) - `VPS` - Offers cloud web hosting solutions with low-cost ways to deliver websites.
+- [**Amazon Web Services (AWS)**](https://aws.amazon.com/websites) - `VPS` - Offers cloud web hosting solutions with low-cost ways to deliver websites.
 - [**Arcustech**](https://arcustech.com) - `VPS` `Managed` - Managed VPS hosting for PHP web applications and frameworks.
 - [**DigitalOcean**](https://digitalocean.com) - `VPS` - Cloud computing platform for building, deploying, and scaling applications fast.
 - [**Fortrabbit**](https://fortrabbit.com) - `VPS` `Managed` - Affordable, powerful, and carefree hosting.
@@ -29,13 +29,13 @@
 
 - [**Forge**](https://forge.laravel.com) - Provision and deploy unlimited PHP applications on DigitalOcean, Linode, AWS, and more.
 - [**RunCloud**](https://runcloud.io) - Hassle-free PHP web application & server management panel.
-- [**Serverpilot**](https://serverpilot.io) - Simple, fast, secure hosting on your DigitalOcean servers.
+- [**ServerPilot**](https://serverpilot.io) - Simple, fast, secure hosting on your DigitalOcean servers.
 
 ---
 
 ## Assets and CDN
 
-- [**Amazon S3**](https://aws.amazon.com/s3) - `Storage` - Object storage built to store and retrieve any amount of data from anywhere.
+- [**AWS S3**](https://aws.amazon.com/s3) - `Storage` - Object storage built to store and retrieve any amount of data from anywhere.
 - [**Cloudflare**](https://cloudflare.com) - `CDN` - Improves website performance through a CDN and web optimisation features. 
 - [**DigitalOcean Spaces**](https://digitalocean.com/products/spaces) - `Storage` - Securely store and deliver data to end-users and applications.
 - [**Google Cloud Storage**](https://cloud.google.com/storage) - `Storage` - Unified object storage for developers and enterprises.
