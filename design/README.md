@@ -53,5 +53,5 @@ Data collected from the [Adele](https://adele.uxpin.com/) project by [UXPin](htt
 - [**Altinn:** Altinn Designsystem](http://altinn.no/designsystem) - [GitHub](https://github.com/Altinn/DesignSystem) - The design system is based on so-called atomic design methodology.
 - [**Ant Financial:** Ant Design](https://ant.design/) - [GitHub](https://github.com/ant-design/ant-design) - A design system with values of nature and determinacy.
 - [**Appear Here:** Bloom](http://bloom.appearhere.co.uk/) - [GitHub](https://github.com/appearhere/bloom/) - Central repository for design patterns and guidelines.
-- [**Atlassian**](https://atlassian.design/) - [Bitbucket](https://bitbucket.org/atlassian/atlaskit) - Design, develop, and deliver.
-- [**Audi**](http://www.audi.com/ci/en/guides/user-interface/introduction.html) - [GitHub](https://github.com/audi/audi-ui) - A joint set of components, modules and animations.
+- [**Atlassian:** Atlaskit](https://atlassian.design/) - [Bitbucket](https://bitbucket.org/atlassian/atlaskit-mk-2) - Design, develop, and deliver.
+- [**Audi:** Audi UI](http://www.audi.com/ci/en/guides/user-interface/introduction.html) - [GitHub](https://github.com/audi/audi-ui) - A joint set of components, modules and animations.
