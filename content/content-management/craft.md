@@ -1,5 +1,24 @@
 # Craft CMS
 
+## Contents
+
+- [**Details**](#details)
+- [**Documentation**](#documentation)
+- [**Featured**](#featured)
+- [**Community**](#community)
+- [**Plugins**](#plugins)
+- [**Resources**](#resources)
+  - [Articles](#articles)
+  - [Praises](#praises)
+  - [Videos](#videos)
+  - [Dev Tools](#dev-tools)
+- [**Showcase**](#showcase)
+  - [Official Case Studies](#official-case-studies)
+  - [Organisations Using Craft](#organisations-using-craft)
+  - [Agencies Using Craft](#agencies-using-craft)
+
+---
+
 ## Details
 
 - **Website** - [craftcms.com](https://craftcms.com)
