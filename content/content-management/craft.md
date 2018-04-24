@@ -2,19 +2,21 @@
 
 ## Details
 
-- **Website** - https://craftcms.com
-- **Licence Management** - https://id.craftcms.com
-- **Language** - PHP
-- **Framework** - Yii
-- **Templating** - Twig
-- **Database** - MySQL, PostgreSQL
+- **Website** - [craftcms.com](https://craftcms.com)
+- **Licence Management** - [id.craftcms.com](https://id.craftcms.com)
+- **Language** - [PHP](http://www.php.net/)
+- **Framework** - [Yii](https://www.yiiframework.com/)
+- **Templating** - [Twig](https://twig.symfony.com/)
+- **Database** - [MySQL](https://www.mysql.com/) + [PostgreSQL](https://www.postgresql.org/)
 
 ---
 
 ## Documentation
 
-- **Craft 3** - [Main Docs](https://docs.craftcms.com/v3) - [Class Reference](https://docs.craftcms.com/api/v3)
-- **Craft 2** - [Main Docs](https://docs.craftcms.com/v2) - [Class Reference](https://docs.craftcms.com/api/v2)
+- [**Craft 3 Docs**](https://docs.craftcms.com/v3) - [Craft 3 Class Reference](https://docs.craftcms.com/api/v3)
+- [**Craft 2 Docs**](https://docs.craftcms.com/v2) - [Craft 2 Class Reference](https://docs.craftcms.com/api/v2)
+- [**Craft Support**](https://craftcms.com/support)
+
 
 ---
 
@@ -23,6 +25,7 @@
 - [**Craft 3 Plugins**](https://plugins.craftcms.com)
 - [**Submit Craft 3 Plugins**](https://id.craftcms.com)
 - [**Craft 2 Plugins**](https://craftplug.in/)
+- [**Plugin Factory**](https://pluginfactory.io/)
 
 ---
 
@@ -31,8 +34,9 @@
 - [**Craft Cookbook**](https://craftcookbook.net/) - Quick solutions to common Craft CMS problems.
 - [**Craft Link List**](http://craftlinklist.com/) - Curated publication collecting interesting links.
 - [**CraftX**](https://craftx.io/) - Open source site built on Craft 3, and community of web professionals hosting hangouts.
-<!-- - [**Evanto Tuts+**](https://tutsplus.com/tutorials/search/craft+cms) -->
 - [**Facebook**](https://www.facebook.com/craftcms/) - Like the official Craft CMS Facebook page.
+- [**Feedback**](https://github.com/craftcms/cms/issues) - Post feature ideas and bug reports.
+- [**Meetups**](https://craftcms.com/community#meetups) - Find a local Craft meetup.
 - [**Mijingo**](https://mijingo.com/craft) - Video courses and how-to articles for learning Craft.
 - [**Professionals**](https://straightupcraft.com/professionals) - Find folks who are skilled and passionate about working with Craft.
 - [**Slack**](https://craftcms.com/community#slack) - Nearing 6,500 users, join the Slack group dedicated to Craft CMS discussion.
@@ -67,67 +71,38 @@
 - [**Thoughts on full page caching in Craft**](https://angell.io/blog/thoughts-on-full-page-caching-in-craft) by [Josh Angell](https://angell.io)
 - [**Using Content Migrations in Craft 3**](https://adigital.agency/blog/using-content-migrations-in-craft-3) by [Matt Shearing/A Digital](https://adigital.agency)
 - [**Zero downtime Craft CMS 3 deployments with Buddy.works**](https://rias.be/blog/zero-downtime-craft-cms-deployments-with-buddy-works) by [Rias](https://rias.be)
-
-### Videos
-
-- [**How to build a reusable carousel component with Craft CMS**](https://www.youtube.com/watch?v=e-6bk2VnBCk&feature=youtu.be) by [Alex Carpenter](https://alexcarpenter.me/) - 22 Apr 2018
-- [**How to build a content builder in Craft CMS**](https://www.youtube.com/watch?v=VSXglzqJ2Z4) by [Alex Carpenter](https://alexcarpenter.me/) - 30 Mar 2018
-- [**Nested navigation based on Structure section**](https://www.youtube.com/watch?v=AylyBOqlooc) by [Ryan Irelan/Mijingo](http://mijingo.com) - 30 Jan 2018
-- [**Building a Blog in Craft CMS**](https://www.youtube.com/watch?v=lfDZ6v23KcE) by [Ryan Irelan/Mijingo](http://mijingo.com) - 23 Jan 2018
-- [**How I build components in CraftCMS with Twig**](https://www.youtube.com/watch?v=FNIM8MvUL-Q) by [Alex Carpenter](https://alexcarpenter.me/) - 28 Dec 2017
-
-### Development Tools and Resources
-
-- [**Craft CLI**](https://github.com/rsanchez/craft-cli) - `2` - Command line interface for Craft CMS 2.
-- [**Craft CMS Bootstrap**](https://github.com/timkelty/craftcms-bootstrap) - `3` - Streamline Craft CMS bootstrapping and configuration.
-- [**Craft CMS Docker**](https://github.com/atillay/craftcms3-docker) - `3` - Get started playing with Craft CMS 3 in a few command lines with Docker.
-- [**Craft 2 Multi-environment**](https://github.com/nystudio107/craft-multi-environment) - `2` - Efficient and flexible multi-environment config for Craft CMS.
-- [**Craft 3 Multi-environment**](https://github.com/nystudio107/craft3-multi-environment) - `3` - Efficient and flexible multi-environment config for Craft CMS
-- [**Craft Scripts**](https://github.com/nystudio107/craft-scripts) - `2` `3` - Shell scripts to manage common tasks between Craft CMS environments.
-- [**Craftman**](https://github.com/gabrielmoreira/craftman) - `2` - Craft CMS Manager.
-- [**Crafty Vagrant**](https://github.com/niceandserious/crafty-vagrant) - `2` - A boilerplate dev environment for jump-starting Craft CMS projects.
-- [**Generator Craft Install**](https://github.com/nystudio107/generator-craftinstall) - `2` - `generator-craftinstall` is a Yeoman generator for Craft CMS installs.
-- [**Happy Lager Demo Site**](https://github.com/timkelty/HappyLager/tree/neutrino) - `3` - A fork of the Craft CMS demo site, updated for Craft 3.
-- [**Nginx Craft**](https://github.com/nystudio107/nginx-craft) - `2` `3` - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
-- [**Plugin Factory**](https://pluginfactory.io/) - `2` `3` - Build to order Craft CMS plugins.
-
-### Mijingo Courses and Articles
-
-- [**Craft CMS Essentials**](https://mijingo.com/craft-essentials) - `2` `Video` `Paid`
-- [**Craft Starter Pack**](https://mijingo.com/products/bundles/craft-starter-pack/) - `2` `Video` `Paid`
-- [**Up and Running with Craft**](https://mijingo.com/products/screencasts/up-and-running-with-craft/) - `2` `Video` `Paid`
-- [**Twig Templates in Craft**](https://mijingo.com/products/screencasts/twig-templates-in-craft/) - `2` `Video` `Paid`
-- [**Control Flow in Twig**](https://mijingo.com/products/screencasts/control-flow-in-twig/) - `2` `Video` `Paid`
-- [**Flexible Twig Templates in Craft**](https://mijingo.com/products/screencasts/reusable-twig-templates-craft/) - `2` `Video` `Paid`
-- [**Craft Plugin Development**](https://mijingo.com/products/screencasts/craft-plugin-development/) - `2` `Video` `Paid`
-- [**Craft Plugin Development Workbook**](https://mijingo.com/products/workbooks/craft-plugin-development-workbook/) - `2` `Video` `Paid`
-- [**Fundamentals of Craft Commerce**](https://mijingo.com/products/screencasts/craft-commerce/) - `2` `Video` `Paid`
-- [**Creating an Element API in Craft**](https://mijingo.com/lessons/creating-an-element-api-in-craft-cms/) - `2` `Video`
-- [**Installing Craft CMS**](https://mijingo.com/lessons/installing-craft-cms/) - `2` `Video`
-- [**Remote Asset Sources in Craft**](https://mijingo.com/lessons/remote-asset-sources-in-craft/) - `2` `3` `Video`
-- [**Contact Form in Craft CMS**](https://mijingo.com/lessons/contact-form-in-craft-cms/) - `2` `Video`
-- [**Plugins in Craft 3**](https://mijingo.com/lessons/plugins-in-craft-3/) - `3` `Video`
-- [**Changing Section Labels in Craft**](https://mijingo.com/lessons/changing-section-labels-in-craft/) - `2` `Video`
-- [**Overview of Craft 3 (beta)**](https://mijingo.com/lessons/craft-3-features/) - `3` `Video`
-- [**Installing Composer**](https://mijingo.com/lessons/installing-composer-craft-cms/) - `3` `Video`
-- [**Installing Craft 3 (beta)**](https://mijingo.com/lessons/installing-craft-cms-3/) - `3` `Video`
-- [**Updating Craft 3 Beta**](https://mijingo.com/lessons/updating-craft-3-beta-with-composer/) - `3` `Video`
-- [**Upgrading Craft 2 to Craft 3**](https://mijingo.com/lessons/upgrade-to-craft-cms-3/) - `3` `Video`
-- [**Yii Debug Toolbar in Craft CMS 3**](https://mijingo.com/lessons/yii-debug-toolbar-craft-cms/) - `3` `Video`
-- [**Image Editing in Craft 3**](https://mijingo.com/lessons/image-editor-craft-cms-3/) - `3` `Video`
-- [**Filters in Twig and Craft**](https://mijingo.com/blog/filters-in-twig-and-craft) - `2` `Article`
-- [**Using Categories in Craft CMS**](https://mijingo.com/blog/using-categories-in-craft-cms) - `2` `Article`
-- [**Using Variables in Twig and Craft CMS**](https://mijingo.com/blog/using-variables-in-twig-and-craft-cms) - `2` `Article`
-- [**Where am I in the Twig Loop?**](https://mijingo.com/blog/where-am-i-in-the-twig-loop) - `2` `Article`
-- [**Key Value Arrays in Twig**](https://mijingo.com/blog/key-value-arrays-in-twig) - `2` `Article`
-- [**Three Twig Tag Types in Craft CMS Explained**](https://mijingo.com/blog/three-tag-types-in-craft-cms-explained) - `2` `Article`
-- [**Using Macros in Twig and Craft**](https://mijingo.com/blog/using-macros-in-twig-and-craft) - `2` `Article`
-- [**Brief Overview of Craft Routing to Templates**](https://mijingo.com/blog/brief-overview-of-craft-routing-to-templates) - `2` `Article`
-- [**Creating an Age Drop-down with Twig range()**](https://mijingo.com/blog/using-twig-range-to-create-an-age-drop-down) - `2` `Article`
-- [**Getting Started with Craft Plugin Development with Ben Croker**](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) - `2` `Article`
-- [**3 Things to Know About Craft Plugin Development**](https://mijingo.com/blog/3-things-to-know-about-craft-plugin-development) - `2` `Article`
-- [**Inspiration for Your First Craft Plugin**](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) - `2` `Article`
-- [**Craft Plugins in Craft 3**](https://mijingo.com/blog/craft-plugins-in-craft-3) - `3` `Article`
+- [**Filters in Twig and Craft**](https://mijingo.com/blog/filters-in-twig-and-craft) - `2`
+- [**Using Categories in Craft CMS**](https://mijingo.com/blog/using-categories-in-craft-cms) - `2`
+- [**Using Variables in Twig and Craft CMS**](https://mijingo.com/blog/using-variables-in-twig-and-craft-cms) - `2`
+- [**Where am I in the Twig Loop?**](https://mijingo.com/blog/where-am-i-in-the-twig-loop) - `2`
+- [**Key Value Arrays in Twig**](https://mijingo.com/blog/key-value-arrays-in-twig) - `2`
+- [**Three Twig Tag Types in Craft CMS Explained**](https://mijingo.com/blog/three-tag-types-in-craft-cms-explained) - `2`
+- [**Using Macros in Twig and Craft**](https://mijingo.com/blog/using-macros-in-twig-and-craft) - `2`
+- [**Brief Overview of Craft Routing to Templates**](https://mijingo.com/blog/brief-overview-of-craft-routing-to-templates) - `2`
+- [**Creating an Age Drop-down with Twig range()**](https://mijingo.com/blog/using-twig-range-to-create-an-age-drop-down) - `2`
+- [**Getting Started with Craft Plugin Development with Ben Croker**](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) - `2`
+- [**3 Things to Know About Craft Plugin Development**](https://mijingo.com/blog/3-things-to-know-about-craft-plugin-development) - `2`
+- [**Inspiration for Your First Craft Plugin**](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) - `2`
+- [**Craft Plugins in Craft 3**](https://mijingo.com/blog/craft-plugins-in-craft-3) - `3`
+- [**The Ultimate Craft CMS vs WordPress Guide**](https://gomasuga.com/info/content-management-systems-craft-cms-vs-wordpress) by [Ryan Masuga](https://gomasuga.com) - `Publication`
+- [**The Guide to Craft CMS Development**](https://gomasuga.com/course/craft-cms-guide) by [Ryan Masuga](https://gomasuga.com) - `2` `Publication`
+- [**A/B Split Testing with Nginx & Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Creating Optimized Images in Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Creating a Content Builder in Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Database & Asset Syncing Between Environments in Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Enhancing a Craft CMS 3 Website with a Custom Module**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Google AMP: Should You Care?**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Handling Errors Gracefully in Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Hardening Craft CMS Permissions**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Lazy Loading with the Element API & VueJS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Multi-Environment Config for Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Setting up a New Craft CMS 3 Project**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Simple Static Asset Versioning in Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Speed up your Craft CMS Templates with Eager Loading**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Static Page Caching with Craft CMS**]() by [Andrew Welch](https://nystudio107.com/)
+- [**The Case of the Missing PHP Session**]() by [Andrew Welch](https://nystudio107.com/)
+- [**The Craft {% cache %} Tag In-Depth**]() by [Andrew Welch](https://nystudio107.com/)
+- [**Twig Processing Order & Scope**]() by [Andrew Welch](https://nystudio107.com/)
 
 ### Praises
 
@@ -146,6 +121,55 @@
 - [**Why We've Fallen Head Over Heels for Craft CMS**](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) by [Welford Media]()
 - [**Why we develop websites using Craft CMS instead of Wordpress**](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) by [WeAreAbstrakt]()
 - [**Why you should be considering Craft over WordPress**](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) by [Sam Goddard/Kind]()
+
+### Videos
+
+- [**How to build a reusable carousel component with Craft CMS**](https://www.youtube.com/watch?v=e-6bk2VnBCk&feature=youtu.be) by [Alex Carpenter](https://alexcarpenter.me/) - 22 Apr 2018
+- [**How to build a content builder in Craft CMS**](https://www.youtube.com/watch?v=VSXglzqJ2Z4) by [Alex Carpenter](https://alexcarpenter.me/) - 30 Mar 2018
+- [**Nested navigation based on Structure section**](https://www.youtube.com/watch?v=AylyBOqlooc) by [Ryan Irelan/Mijingo](http://mijingo.com) - 30 Jan 2018
+- [**Building a Blog in Craft CMS**](https://www.youtube.com/watch?v=lfDZ6v23KcE) by [Ryan Irelan/Mijingo](http://mijingo.com) - 23 Jan 2018
+- [**How I build components in CraftCMS with Twig**](https://www.youtube.com/watch?v=FNIM8MvUL-Q) by [Alex Carpenter](https://alexcarpenter.me/) - 28 Dec 2017
+- [**Craft CMS Essentials**](https://mijingo.com/craft-essentials) - `2` `Paid`
+- [**Craft Starter Pack**](https://mijingo.com/products/bundles/craft-starter-pack/) - `2` `Paid`
+- [**Up and Running with Craft**](https://mijingo.com/products/screencasts/up-and-running-with-craft/) - `2` `Paid`
+- [**Twig Templates in Craft**](https://mijingo.com/products/screencasts/twig-templates-in-craft/) - `2` `Paid`
+- [**Control Flow in Twig**](https://mijingo.com/products/screencasts/control-flow-in-twig/) - `2` `Paid`
+- [**Flexible Twig Templates in Craft**](https://mijingo.com/products/screencasts/reusable-twig-templates-craft/) - `2` `Paid`
+- [**Craft Plugin Development**](https://mijingo.com/products/screencasts/craft-plugin-development/) - `2` `Paid`
+- [**Craft Plugin Development Workbook**](https://mijingo.com/products/workbooks/craft-plugin-development-workbook/) - `2` `Paid`
+- [**Fundamentals of Craft Commerce**](https://mijingo.com/products/screencasts/craft-commerce/) - `2` `Paid`
+- [**Creating an Element API in Craft**](https://mijingo.com/lessons/creating-an-element-api-in-craft-cms/) - `2`
+- [**Installing Craft CMS**](https://mijingo.com/lessons/installing-craft-cms/) - `2`
+- [**Remote Asset Sources in Craft**](https://mijingo.com/lessons/remote-asset-sources-in-craft/) - `2` `3`
+- [**Contact Form in Craft CMS**](https://mijingo.com/lessons/contact-form-in-craft-cms/) - `2`
+- [**Plugins in Craft 3**](https://mijingo.com/lessons/plugins-in-craft-3/) - `3`
+- [**Changing Section Labels in Craft**](https://mijingo.com/lessons/changing-section-labels-in-craft/) - `2`
+- [**Overview of Craft 3 (beta)**](https://mijingo.com/lessons/craft-3-features/) - `3`
+- [**Installing Composer**](https://mijingo.com/lessons/installing-composer-craft-cms/) - `3`
+- [**Installing Craft 3 (beta)**](https://mijingo.com/lessons/installing-craft-cms-3/) - `3`
+- [**Updating Craft 3 Beta**](https://mijingo.com/lessons/updating-craft-3-beta-with-composer/) - `3`
+- [**Upgrading Craft 2 to Craft 3**](https://mijingo.com/lessons/upgrade-to-craft-cms-3/) - `3`
+- [**Yii Debug Toolbar in Craft CMS 3**](https://mijingo.com/lessons/yii-debug-toolbar-craft-cms/) - `3`
+- [**Image Editing in Craft 3**](https://mijingo.com/lessons/image-editor-craft-cms-3/) - `3`
+
+### Podcasts
+
+- [**Craft.Podcast**](http://craftpodcast.com/) - A voice for the #CraftCMS community.
+- [**Talk­ing Craft CMS 3 RC1!**](https://devmode.fm/episodes/talking-craft-cms-rc1) - The inau­gur­al episode of the `dev​Mode​.fm` pod­cast.
+
+### Development Tools
+
+- [**Craft CLI**](https://github.com/rsanchez/craft-cli) - `2` - Command line interface for Craft CMS 2.
+- [**Craft CMS Bootstrap**](https://github.com/timkelty/craftcms-bootstrap) - `3` - Streamline Craft CMS bootstrapping and configuration.
+- [**Craft CMS Docker**](https://github.com/atillay/craftcms3-docker) - `3` - Get started playing with Craft CMS 3 in a few command lines with Docker.
+- [**Craft 2 Multi-environment**](https://github.com/nystudio107/craft-multi-environment) - `2` - Efficient and flexible multi-environment config for Craft CMS.
+- [**Craft 3 Multi-environment**](https://github.com/nystudio107/craft3-multi-environment) - `3` - Efficient and flexible multi-environment config for Craft CMS
+- [**Craft Scripts**](https://github.com/nystudio107/craft-scripts) - `2` `3` - Shell scripts to manage common tasks between Craft CMS environments.
+- [**Craftman**](https://github.com/gabrielmoreira/craftman) - `2` - Craft CMS Manager.
+- [**Crafty Vagrant**](https://github.com/niceandserious/crafty-vagrant) - `2` - A boilerplate dev environment for jump-starting Craft CMS projects.
+- [**Generator Craft Install**](https://github.com/nystudio107/generator-craftinstall) - `2` - `generator-craftinstall` is a Yeoman generator for Craft CMS installs.
+- [**Happy Lager Demo Site**](https://github.com/timkelty/HappyLager/tree/neutrino) - `3` - A fork of the Craft CMS demo site, updated for Craft 3.
+- [**Nginx Craft**](https://github.com/nystudio107/nginx-craft) - `2` `3` - An Nginx virtual host configuration for Craft CMS that implements a number of best-practices.
 
 ---
 

@@ -15,12 +15,12 @@
 
 ## Version Control
 
-- [**Beanstalk**](https://beanstalkapp.com/) - `Repos` - A complete workflow to write, review and deploy code.
-- [**BitBucket**](https://bitbucket.org/) - `Repos` - Distributed version control that makes it easy for you to collaborate with your team.
-- [**GitHub**](https://github.com) - `Repos` A development platform to host and review code, manage projects, and build software.
+- [**Beanstalk**](https://beanstalkapp.com/) - `Repositories` - A complete workflow to write, review and deploy code.
+- [**BitBucket**](https://bitbucket.org/) - `Repositories` - Distributed version control that makes it easy for you to collaborate with your team.
+- [**GitHub**](https://github.com) - `Repositories` A development platform to host and review code, manage projects, and build software.
 - [**GitHub Desktop**](https://desktop.github.com/) - [GitHub](https://github.com/desktop/desktop) - `App` - Simple collaboration from your desktop.
 - [**GitKraken**](https://www.gitkraken.com/) - `App` - The legendary Git GUI client.
-- [**GitLab**](https://about.gitlab.com/) - `Repos` - Built from the ground up for all stages of the DevOps lifecycle.
+- [**GitLab**](https://about.gitlab.com/) - `Repositories` - Built from the ground up for all stages of the DevOps lifecycle.
 - [**Sourcetree**](https://www.sourcetreeapp.com/) - `App` - Simplicity and power in a beautiful Git GUI.
 - [**Tower**](https://www.git-tower.com/) - `App` - Version control with Git - made easy.
 
@@ -74,6 +74,7 @@
 - [**DeployBot**](http://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 - [**DeployHQ**](http://deployhq.com) - Deploy from your repository to your server in minutes.
 - [**Envoyer**](http://envoyer.io) - Deployments you've only dreamed about. Zero downtime. Zero fuss.
+- [**F-Bar**](https://laravel-forge-menubar.com/) - Manage your [Laravel Forge](http://forge.laravel.com) servers from your menubar.
 - [**Forge**](http://forge.laravel.com) - Provision and deploy unlimited PHP applications on DigitalOcean, Linode, AWS, and more.
 - [**Nanobox**](https://nanobox.io) - The simplest way to deploy and manage a flexible cloud infrastructure.
 

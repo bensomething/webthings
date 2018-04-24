@@ -135,13 +135,13 @@
 
 ## Forms
 
-- [**Chosen**](http://harvesthq.github.io/chosen) - [GitHub](https://github.com/harvesthq/chosen) - `jQuery` - A library for making long, unwieldy select boxes more friendly.
-- [**FieldKit**](http://square.github.io/field-kit) - [GitHub](https://github.com/square/field-kit) - Provides real-time, text field formatting as users type.
-- [**Garlic**](http://garlicjs.org) - [GitHub](https://github.com/guillaumepotier/garlic.js) - `jQuery` - Automatically persist your forms' text and select field values locally.
-- [**Hyperform**](http://hyperform.js.org) - [GitHub](https://github.com/hyperform/hyperform) - Capture form validation back from the browser.
-- [**Parsley**](http://parsleyjs.org) - [GitHub](https://github.com/guillaumepotier/Parsley.js) - `jQuery` - JavaScript form validation without actually writing a single line of JS.
-- [**Selectize**](http://selectize.github.io/selectize.js) - [GitHub](https://github.com/selectize/selectize.js) - `jQuery` - An extensible jQuery-based custom `<select>` UI control.
-- [**Stripe Elements**](http://stripe.github.io/elements-examples) - [GitHub](https://github.com/stripe/elements-examples) - `Stripe` - Examples of stylish forms that use Stripe Elements.
+- [**Chosen**](http://harvesthq.github.io/chosen) - [GitHub](https://github.com/harvesthq/chosen) - `Fields` `jQuery` - A library for making long, unwieldy select boxes more friendly.
+- [**FieldKit**](http://square.github.io/field-kit) - [GitHub](https://github.com/square/field-kit) - `Fields` - Provides real-time, text field formatting as users type.
+- [**Garlic**](http://garlicjs.org) - [GitHub](https://github.com/guillaumepotier/garlic.js) - `Validation` `jQuery` - Automatically persist your forms' text and select field values locally.
+- [**Hyperform**](http://hyperform.js.org) - [GitHub](https://github.com/hyperform/hyperform) - `Validation` - Capture form validation back from the browser.
+- [**Parsley**](http://parsleyjs.org) - [GitHub](https://github.com/guillaumepotier/Parsley.js) - `Validation` `jQuery` - JavaScript form validation without actually writing a single line of JS.
+- [**Selectize**](http://selectize.github.io/selectize.js) - [GitHub](https://github.com/selectize/selectize.js) - `Fields` `jQuery` - An extensible jQuery-based custom `<select>` UI control.
+- [**Stripe Elements**](http://stripe.github.io/elements-examples) - [GitHub](https://github.com/stripe/elements-examples) - `Fields` `Stripe` - Examples of stylish forms that use Stripe Elements.
 
 ---
 
