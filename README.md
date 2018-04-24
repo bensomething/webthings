@@ -2,7 +2,7 @@
 
 A collection of all things web, because my memory sucks and so does yours.
 
-## [Front-end](front-end)
+## [Front-end](front-end/readme.md)
 
 - [Layout Frameworks](front-end#layout-frameworks)
 - [JS Frameworks](front-end#js-frameworks)
