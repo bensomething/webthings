@@ -1,6 +1,6 @@
 # The Things
 
-A collection of all things web, because my memory sucks and so does yours.
+A collection of all things web, because my memory sucks and so does yours. You're more than welcome to contribute, just head on over to the [contribution guidelines](CONTRIBUTING.md) for details.
 
 ## [Front-end](front-end/README.md)
 

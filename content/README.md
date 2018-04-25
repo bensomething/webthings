@@ -2,7 +2,7 @@
 
 ## Content Management
 
-- [**Craft**](http://craftcms.com) - [GitHub](https://github.com/craftcms/cms) - Content-first CMS that makes life enjoyable for developers and content creators.
+- [**Craft**](http://craftcms.com) - [GitHub](https://github.com/craftcms/cms) - Content-first CMS that makes life enjoyable for developers and content creators. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/craftcms/awesome)
 - [**Drupal**](http://drupal.org) - [GitHub](https://github.com/drupal/drupal) - Free and open source content-management framework written in PHP.
 - [**Grav**](https://getgrav.org/) - [GitHub](https://github.com/getgrav/grav) - A modern open source flat-file CMS.
 - [**Perch**](https://grabaperch.com/) - The really little content management system.
@@ -25,6 +25,7 @@
 
 ## Documentation
 
+- [**Fractal**](https://fractal.build/) - [GitHub](https://github.com/frctl/fractal) - A tool to help you build and document web component libraries.
 - [**GitBook**](http://gitbook.io) - [GitHub](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown.
 - [**MkDocs**](http://www.mkdocs.org/) - [GitHub](https://github.com/mkdocs/mkdocs/) - A static site generator geared towards building project documentation.
 - [**Read the Docs**](https://readthedocs.org/) - [GitHub](https://github.com/rtfd/readthedocs.org) -  Create, host, and browse documentation.

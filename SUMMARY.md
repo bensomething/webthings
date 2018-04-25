@@ -6,5 +6,3 @@
 * [Development](development/README.md)
 * [Domains & Hosting](domains-and-hosting/README.md)
 * [Content](content/README.md)
-<!-- 	* [Content Management](content/content-management)
-		* [Craft](content/content-management/craft.md) -->
