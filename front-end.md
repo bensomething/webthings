@@ -1,6 +1,6 @@
 # Front-end
 
-## Layout Frameworks
+## Interface Frameworks
 
 - [**Bootstrap**](http://getbootstrap.com) - [GitHub](https://github.com/twbs/bootstrap) - `UI` - An open source toolkit for developing with HTML, CSS, and JS.
 - [**Bulma**](https://bulma.io) - [GitHub](https://github.com/jgthms/bulma) - `UI` - An open source CSS framework based on Flexbox.
@@ -45,7 +45,7 @@
 - [**Glide.js**](http://glidejs.com) - [GitHub](https://github.com/glidejs/glide) - A dependency-free JavaScript ES6 slider and carousel.
 - [**Lory**](http://meandmax.github.io/lory/) - [GitHub](https://github.com/meandmax/lory) - Touch enabled minimalistic slider written in vanilla JavaScript.
 - [**Owl**](http://owlcarousel2.github.io/OwlCarousel2/) - [GitHub](https://github.com/OwlCarousel2/OwlCarousel2) - `jQuery` - Touch enabled jQuery plugin that lets you create a responsive carousel slider.
-- [**Siema**](https://pawelgrzybek.github.io/siema/) - [GitHub](https://github.com/pawelgrzybek/siema) - Lightweight and simple carousel in pure JavaScript
+- [**Siema**](https://pawelgrzybek.github.io/siema/) - [GitHub](https://github.com/pawelgrzybek/siema) - Lightweight and simple carousel in pure JavaScript.
 - [**Slick**](http://kenwheeler.github.io/slick/) - [GitHub](https://github.com/kenwheeler/slick) - `jQuery` - The last carousel you'll ever need.
 - [**Swiper**](http://idangero.us/swiper/) - [GitHub](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions.
 - [**Wallop**](http://pedroduarte.me/wallop) - [GitHub](https://github.com/peduarte/wallop) - A minimal JS library for showing and hiding things.
@@ -100,6 +100,7 @@
 
 ## Animation
 
+- [**Animate on Scroll**](https://michalsnik.github.io/aos/) - [GitHub](https://github.com/michalsnik/aos) - Small library to animate elements on your page as you scroll.
 - **Animate Plus** - [GitHub](https://github.com/bendc/animateplus) - A+ animation module for the modern web.
 - [**Animate.css**](http://daneden.github.io/animate.css) - [GitHub](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations.
 - [**Anime**](http://animejs.com) | [GitHub](https://github.com/juliangarnier/anime) - A lightweight JavaScript animation library.
@@ -114,13 +115,6 @@
 - [**Rekapi**](http://jeremyckahn.github.io/rekapi/doc/index.html) - [GitHub](https://github.com/jeremyckahn/rekapi) - A keyframe animation library for JavaScript.
 - **Tween** - [GitHub](https://github.com/tweenjs/tween.js) - JavaScript tweening engine for easy animations.
 - [**Velocity.js**](http://) - [GitHub](https://github.com/julianshapiro/velocity) - `jQuery` - Accelerated JavaScript animation.
-
----
-
-## Placeholders
-
-- [**Avataaars**](https://getavataaars.com/) - [GitHub](https://github.com/fangpenlin/avataaars-geneator) - Online avatar generator for anyone to make their personal avatar easily.
-- [**Placeholder**](https://placeholder.com/) - Quick and simple image placeholders.
 
 ---
 
@@ -159,6 +153,17 @@
 - [**DataTables**](http://datatables.net) - `jQuery` - Add advanced interaction controls to your HTML tables.
 - [**Tablesaw**](http://filamentgroup.github.io/tablesaw/demo/kitchensink.html) - [GitHub](https://github.com/filamentgroup/tablesaw) - A group of plugins for responsive tables.
 
+---
+
+## Layout
+
+- [**Bricks**](http://callmecavs.com/bricks.js/) - [GitHub](https://github.com/callmecavs/bricks.js) - A blazing fast masonry layout generator for fixed width elements.
+- [**Isotope**](https://isotope.metafizzy.co/) - [GitHub](https://github.com/metafizzy/isotope) - Filter and sort magical layouts.
+- [**Macy.js**](http://macyjs.com/) - [GitHub](https://github.com/bigbitecreative/macy.js) - A lightweight, dependency-free, masonry layout library.
+- [**Masonry**](https://masonry.desandro.com/) - [GitHub](https://github.com/desandro/masonry) - Cascading grid layout plugin.
+- [**Packery**](https://packery.metafizzy.co/) - [GitHub](https://github.com/metafizzy/packery) - Gapless, draggable grid layouts.
+- [**Shuffle**](https://vestride.github.io/Shuffle/) - [GitHub](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items.
+
 
 ---
 
@@ -194,3 +199,4 @@
 - [**In Defense of Utility-First CSS**](http://frontstuff.io/in-defense-of-utility-first-css) - [Sarah Dayan](http://frontstuff.io) - `CSS` `Utility` - Jan 15, 2018
 - [**CSS Utility Classes and "Separation of Concerns"**](http://adamwathan.me/css-utility-classes-and-separation-of-concerns) - [Adam Wathan](http://adamwathan.me) - `CSS` `Utility` - Aug 7, 2017
 - [**Connect: behind the front-end experience**](http://stripe.com/blog/connect-front-end-experience) - [Benjamin de Cock](https://twitter.com/bdc) - `CSS` `Technical` - Jun 19, 2017
+- [**Front-end Front**](https://frontendfront.com/) - A crowd curated feed of front-end related articles.

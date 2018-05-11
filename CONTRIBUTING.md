@@ -25,7 +25,7 @@ Lists follow pretty straightforward formatting.
 
 ### Formatting Rules
 
-- Use dashes to separate different items of info.
+- Use dashes to separate different segments of info.
 - If something doesn't apply (GitHub link, tags, etc.) you can leave it out.
 - Make titles bold to differentiate them from the GitHub links.
 - Grab descriptions from GitHub repositories or homepage introductions. The shorter the better.
