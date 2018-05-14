@@ -15,7 +15,7 @@
 
 ---
 
-## JS Frameworks
+## JavaScript Frameworks
 
 - [**Angular**](https://angular.io/) - [GitHub](https://github.com/angular/angular) - Reuse your code and abilities to build apps for any deployment target.
 - [**Ember**](https://emberjs.com/) - [GitHub](https://github.com/emberjs/ember.js) - A framework for ambitious web developers.
@@ -48,6 +48,7 @@
 - [**Siema**](https://pawelgrzybek.github.io/siema/) - [GitHub](https://github.com/pawelgrzybek/siema) - Lightweight and simple carousel in pure JavaScript.
 - [**Slick**](http://kenwheeler.github.io/slick/) - [GitHub](https://github.com/kenwheeler/slick) - `jQuery` - The last carousel you'll ever need.
 - [**Swiper**](http://idangero.us/swiper/) - [GitHub](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions.
+- [**Tiny Slider**](http://ganlanyuan.github.io/tiny-slider) - [GitHub](https://github.com/ganlanyuan/tiny-slider) - Vanilla javascript slider for all purposes.
 - [**Wallop**](http://pedroduarte.me/wallop) - [GitHub](https://github.com/peduarte/wallop) - A minimal JS library for showing and hiding things.
 
 ---

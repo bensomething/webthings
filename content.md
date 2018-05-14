@@ -38,3 +38,4 @@
 - [**GitBook**](http://gitbook.io) - [GitHub](https://github.com/GitbookIO/gitbook) - Modern documentation format and toolchain using Git and Markdown.
 - [**MkDocs**](http://www.mkdocs.org/) - [GitHub](https://github.com/mkdocs/mkdocs/) - A static site generator geared towards building project documentation.
 - [**Read the Docs**](https://readthedocs.org/) - [GitHub](https://github.com/rtfd/readthedocs.org) -  Create, host, and browse documentation.
+- [**VuePress**](https://vuepress.vuejs.org/) - [GitHub](https://github.com/vuejs/vuepress) - Minimalistic Vue-powered static site generator.
