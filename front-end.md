@@ -32,6 +32,7 @@
 - [**MenuSpy**](http://leocs.me/menuspy) - [GitHub](https://github.com/lcdsantos/menuspy) - A library to make navigation menus highlight items based on current section.
 - [**mmenu**](http://mmenu.frebsite.nl) - [GitHub](https://github.com/FrDH/jQuery.mmenu) - `jQuery` - A plugin for app look-alike on- and off-canvas menus.
 - [**PriorityNav**](http://gijsroge.github.io/priority-nav.js) - [GitHub](https://github.com/gijsroge/priority-navigation) - Javascript implementation for Priority+ Navigation.
+- [**Pushy**](https://chrisyee.ca/pushy) - [GitHub](https://github.com/christophery/pushy) - `jQuery` - A responsive off-canvas navigation menu.
 - [**Slideout**](http://slideout.js.org) - [GitHub](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [**Tocbot**](http://tscanlin.github.io/tocbot) - [GitHub](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 
