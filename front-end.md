@@ -29,10 +29,12 @@
 ## Navigation
 
 - [**bigSlide**](http://ascott1.github.io/bigSlide.js) - [GitHub](https://github.com/ascott1/bigSlide.js) - `jQuery` - A tiny slide panel navigation jQuery plugin with big dreams.
+- [**Canvi**](https://pineco.de/project/canvi-off-canvas-navigation) - [GitHub](https://github.com/thepinecode/canvi) - A simple vanilla JavaScript off-canvas menu.
 - [**MenuSpy**](http://leocs.me/menuspy) - [GitHub](https://github.com/lcdsantos/menuspy) - A library to make navigation menus highlight items based on current section.
 - [**mmenu**](http://mmenu.frebsite.nl) - [GitHub](https://github.com/FrDH/jQuery.mmenu) - `jQuery` - A plugin for app look-alike on- and off-canvas menus.
 - [**PriorityNav**](http://gijsroge.github.io/priority-nav.js) - [GitHub](https://github.com/gijsroge/priority-navigation) - Javascript implementation for Priority+ Navigation.
 - [**Pushy**](https://chrisyee.ca/pushy) - [GitHub](https://github.com/christophery/pushy) - `jQuery` - A responsive off-canvas navigation menu.
+- [**SlickNav**](http://slicknav.io) - [GitHub](https://github.com/ComputerWolf/SlickNav) - `jQuery` - Responsive mobile menu plugin for jQuery.
 - [**Slideout**](http://slideout.js.org) - [GitHub](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps.
 - [**Tocbot**](http://tscanlin.github.io/tocbot) - [GitHub](https://github.com/tscanlin/tocbot) - Build a table of contents from headings in an HTML document.
 
@@ -82,9 +84,12 @@
 
 ## Audio and Video
 
+- [**Audio5js**](http://zohararad.github.io/audio5js) - [GitHub](https://github.com/zohararad/audio5js) - `Audio` - The HTML5 audio compatibility layer.
 - [**Howler**](http://howlerjs.com) - [GitHub](https://github.com/goldfire/howler.js) - `Audio` - Javascript audio library for the modern web.
 - [**MediaElement**](http://mediaelementjs.com) - [GitHub](https://github.com/mediaelement/mediaelement) - `Audio` `Video` - HTML5 `<audio>` or `<video>` player
 - [**Plyr**](http://plyr.io) - [GitHub](https://github.com/sampotts/plyr) - `Video` - A simple HTML5, YouTube and Vimeo player.
+- [**Soundcite**](http://soundcite.com) - [GitHub](https://github.com/NUKnightLab/soundcite) - `Audio` - Making inline audio easy and seamless.
+- [**SoundJS**](https://createjs.com/soundjs) - [GitHub](https://github.com/CreateJS/SoundJS) - `Audio` - A JavaScript library for working with audio.
 - [**Video.js**](http://videojs.com) - [GitHub](https://github.com/videojs/video.js) - `Video` - Open source HTML5 and Flash video player.
 
 ---
@@ -92,7 +97,8 @@
 ## 2D and 3D
 
 - [**Babylon**](http://babylonjs.com) - [GitHub](https://github.com/BabylonJS/Babylon.js) - `3D` - A JavaScript framework for building 3D games with HTML 5 and WebGL.
-- [**Cannon.js**](http://cannonjs.org) - [GitHub](https://github.com/schteppe/cannon.js) - `3D` - A lightweight 3D physics engine written in JavaScript. 
+- [**Cannon.js**](http://cannonjs.org) - [GitHub](https://github.com/schteppe/cannon.js) - `3D` - A lightweight 3D physics engine written in JavaScript.
+- [**EaselJS**](https://createjs.com/easeljs) - [GitHub](https://github.com/CreateJS/EaselJS) - `2D` - A JavaScript library that makes working with the HTML5 Canvas element easy.
 - [**Paper.js**](http://paperjs.org) - [GitHub](https://github.com/paperjs/paper.js) - `2D` - The Swiss Army Knife of vector graphics scripting.
 - [**SceneJS**](http://scenejs.org) - [GitHub](https://github.com/xeolabs/scenejs) - `3D` - An extensible WebGL-based engine for high-detail 3D visualisation.
 - [**Sketchfab**](http://sketchfab.com) - `3D` - Publish, share, and discover 3D content on web, mobile, AR, and VR.
@@ -116,6 +122,7 @@
 - [**Rebound**](http://facebook.github.io/rebound-js/examples) - [GitHub](https://github.com/facebook/rebound-js) - A simple library that models spring dynamics for driving physical animations.
 - [**Rekapi**](http://jeremyckahn.github.io/rekapi/doc/index.html) - [GitHub](https://github.com/jeremyckahn/rekapi) - A keyframe animation library for JavaScript.
 - **Tween** - [GitHub](https://github.com/tweenjs/tween.js) - JavaScript tweening engine for easy animations.
+- [**TweenJS**](https://createjs.com/tweenjs) - [GitHub](https://github.com/CreateJS/TweenJS) - A library for tweening and animating HTML5 and JavaScript properties.
 - [**Velocity.js**](http://) - [GitHub](https://github.com/julianshapiro/velocity) - `jQuery` - Accelerated JavaScript animation.
 
 ---
