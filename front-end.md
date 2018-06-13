@@ -58,12 +58,14 @@
 
 ## Lightboxes
 
+- [**baguetteBox.js**](https://feimosi.github.io/baguetteBox.js) - [GitHub](https://github.com/feimosi/baguetteBox.js) - Simple and easy to use lightbox script written in pure JavaScript.
 - [**basicLightbox**](http://basiclightbox.electerious.com) - [GitHub](https://github.com/electerious/basicLightbox) - The lightest lightbox ever made.
 - [**Chocolat.js**](http://chocolat.insipi.de) - [GitHub](https://github.com/nicolas-t/Chocolat) - `jQuery` - The lightbox so cool horses use it.
 - [**Lightgallery**](http://sachinchoolur.github.io/lightgallery.js) - [GitHub](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image and video gallery.
 - [**Lity**](http://sorgalla.com/lity) - [GitHub](https://github.com/jsor/lity) - `jQuery` `Zepto` - Lightweight, accessible and responsive lightbox.
 - [**Magnific Popup**](http://dimsemenov.com/plugins/magnific-popup) - [GitHub](https://github.com/dimsemenov/Magnific-Popup) - `jQuery` `Zepto` - A lightbox script with focus on performance.
 - [**PhotoSwipe**](http://photoswipe.com) - [GitHub](https://github.com/dimsemenov/photoswipe) - A modular and framework independent image gallery for mobile and desktop.
+- [**slick-lightbox**](http://mreq.github.io/slick-lightbox) - [GitHub](https://github.com/mreq/slick-lightbox) - `jQuery` `Slick` - A lightbox wrapper for Ken's amazing Slick carousel.
 
 ---
 
