@@ -16,7 +16,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 - [Audio and Video](#audio-and-video)
 - [2D and 3D](#2d-and-3d)
 - [Animation](#animation)
-- [Data](f#data)
+- [Data](#data)
 - [Forms](#forms)
 - [Search](#search)
 - [Tables](#tables)
@@ -55,6 +55,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 
 - [Content Management](#content-management)
 - [Commerce](#commerce)
+- [Email Campaigns](#email-campaigns)
 - [Documentation](#documentation)
 
 ---
@@ -368,7 +369,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 ---
 ---
 
-# Domains & Hosting 
+# Domains and Hosting 
 
 ## Search and Registration
 
