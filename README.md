@@ -267,6 +267,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 - [**Typekit**](http://typekit.com) - `Web Fonts` - Brings thousands of fonts into one library for subscription or purchase.
 
 ---
+---
 
 # Development
 
@@ -365,6 +366,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 - [**Pingdom Tools**](https://tools.pingdom.com/) - Enter a URL to test the load time of that page, analyze it and find bottlenecks.
 
 ---
+---
 
 # Domains & Hosting 
 
@@ -419,6 +421,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 - [**Gmail**](https://google.com/gmail) - Email that's intuitive, efficient, and useful.
 - [**Zoho**](https://zoho.eu/mail) - Secure, fast, ad-free email for business.
 
+---
 ---
 
 # Content
