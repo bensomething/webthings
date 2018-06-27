@@ -7,7 +7,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 ## [Front-end](#front-end-1)
 
 - [Interface Frameworks](#interface-frameworks)
-- [JS Frameworks](#js-frameworks)
+- [JavaScript Frameworks](#javascript-frameworks)
 - [Navigation](#navigation)
 - [Sliders](#sliders)
 - [Lightboxes](#lightboxes)
@@ -57,6 +57,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 - [Commerce](#commerce)
 - [Documentation](#documentation)
 
+---
 ---
 
 # Front-end
