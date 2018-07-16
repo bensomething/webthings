@@ -128,7 +128,7 @@ A collection of all things web, because my memory sucks and so does yours. You'r
 - [**Lightgallery**](http://sachinchoolur.github.io/lightgallery.js) - [GitHub](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image and video gallery.
 - [**Lity**](http://sorgalla.com/lity) - [GitHub](https://github.com/jsor/lity) - `jQuery` `Zepto` - Lightweight, accessible and responsive lightbox.
 - [**Magnific Popup**](http://dimsemenov.com/plugins/magnific-popup) - [GitHub](https://github.com/dimsemenov/Magnific-Popup) - `jQuery` `Zepto` - A lightbox script with focus on performance.
-- [**Medium Zoon**](https://medium-zoom.francoischalifour.com/) - [GitHub](https://github.com/francoischalifour/medium-zoom) - Medium zoom on your images in vanilla JavaScript.
+- [**Medium Zoom**](https://medium-zoom.francoischalifour.com/) - [GitHub](https://github.com/francoischalifour/medium-zoom) - Medium zoom on your images in vanilla JavaScript.
 - [**PhotoSwipe**](http://photoswipe.com) - [GitHub](https://github.com/dimsemenov/photoswipe) - A modular and framework independent image gallery for mobile and desktop.
 - [**slick-lightbox**](http://mreq.github.io/slick-lightbox) - [GitHub](https://github.com/mreq/slick-lightbox) - `jQuery` `Slick` - A lightbox wrapper for Ken's amazing Slick carousel.
 
